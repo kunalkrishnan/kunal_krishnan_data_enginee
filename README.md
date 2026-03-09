@@ -65,6 +65,20 @@ Power BI
 
 ---
 
+![Azure](https://img.shields.io/badge/Azure-Data%20Engineering-blue)
+![Databricks](https://img.shields.io/badge/Databricks-PySpark-orange)
+![Fabric](https://img.shields.io/badge/Microsoft-Fabric-purple)
+![ADF](https://img.shields.io/badge/Azure-DataFactory-blue)
+![Fivetran](https://img.shields.io/badge/Fivetran-Replication-green)
+![SQL](https://img.shields.io/badge/SQL-DataWarehouse-red)
+
+## 📊 GitHub Stats
+
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkrishnan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkrishnan&layout=compact)
+
+
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/kunal-krishnan-a0a792137/ 
