@@ -1,6 +1,6 @@
 # Hi 👋 I'm Kunal Krishnan
 
-🚀 Data Engineer with 5+ years of experience designing scalable data platforms and ETL pipelines.
+🚀 Data Engineer with 5+ years of experience building scalable cloud data platforms and enterprise ETL pipelines.
 
 Currently working as **Consultant at Capgemini**  
 Previously worked at **Infosys**
@@ -9,20 +9,39 @@ Previously worked at **Infosys**
 
 ## 🧑‍💻 About Me
 
-- 5+ years of experience in Data Engineering
-- Building scalable ETL pipelines using Azure & Databricks
-- Experience in enterprise data platforms and analytics systems
+• 5+ years of experience in Data Engineering  
+• Expertise in Azure cloud data platform  
+• Building scalable ETL and data replication pipelines  
+• Experience with enterprise data integration and analytics platforms  
 
 ---
 
 ## 🚀 Tech Stack
 
+**Cloud & Data Platforms**
+
 Azure Data Factory  
 Azure Databricks  
+Azure Data Lake Gen2  
+Microsoft Fabric  
+Azure Synapse Analytics  
+
+**Data Processing**
+
 PySpark  
 SQL  
 Delta Lake  
-Azure Data Lake Gen2  
+
+**Data Integration & Replication**
+
+Fivetran  
+HVR Replication  
+ETL Pipelines  
+
+**Tools**
+
+Git  
+Power BI  
 Data Warehousing  
 
 ---
@@ -39,26 +58,20 @@ Data Warehousing
 
 ## 🏗 Data Engineering Skills
 
-✔ ETL Pipeline Development  
-✔ Cloud Data Platform Architecture  
-✔ Batch Data Processing  
-✔ Real-Time Data Streaming  
-✔ Data Lake Implementation  
+✔ Azure Data Factory Pipelines  
+✔ Data Replication using Fivetran / HVR  
+✔ Medallion Data Lake Architecture  
+✔ Data Warehouse Modeling  
+✔ Batch & Streaming Data Processing  
+✔ Enterprise Data Integration  
 
 ---
 
-## 📊 Tools & Technologies
+## 📊 Technologies & Tools
 
-Azure | Databricks | PySpark | SQL | Delta Lake | Git | Power BI
+Azure | Microsoft Fabric | Databricks | PySpark | SQL | Delta Lake | Fivetran | HVR | Git | Power BI
 
 ---
-
-![Azure](https://img.shields.io/badge/Azure-Data%20Engineering-blue)
-![Databricks](https://img.shields.io/badge/Databricks-PySpark-orange)
-![SQL](https://img.shields.io/badge/SQL-Data%20Warehouse-green)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-
-
 
 ## 📫 Connect with Me
 
