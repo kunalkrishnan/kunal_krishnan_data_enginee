@@ -10,7 +10,7 @@ Ex **Infosys**
 
 # 🌐 Portfolio Website
 
-👉 https://kunalkrishnan.github.io/portfolio/
+👉[ https://kunalkrishnan.github.io/portfolio/](https://kunal-faang-portfolio.vercel.app/)
 
 ---
 
